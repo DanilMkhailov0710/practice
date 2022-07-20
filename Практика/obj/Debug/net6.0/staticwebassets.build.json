@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "FeONv4YRbXIu0i8hHdgQAmcIpRSj2eJslYiBdBusvCc=",
+  "Source": "Практика",
+  "BasePath": "_content/Практика",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Практика\\wwwroot",
+      "Source": "Практика",
+      "ContentRoot": "D:\\Проекты\\Практика\\Практика\\wwwroot\\",
+      "BasePath": "_content/Практика",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Проекты\\Практика\\Практика\\wwwroot\\index.html",
+      "SourceId": "Практика",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Проекты\\Практика\\Практика\\wwwroot\\",
+      "BasePath": "_content/Практика",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
